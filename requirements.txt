@@ -1,0 +1,4 @@
+# It is the example file for the workshop 2 activities for Git. 
+## Please add any texts in this file. 
+
+Please revise the texts in this file.
